@@ -31,8 +31,8 @@ If you copy and paste this into the code cell on the left in place of the print 
 
 To complete this exercise I would like you to use commands such as the one above to extract and print information about the films:
 
-Moonlight
-La La Land
-The Magnificent Seven
+1. Moonlight
+2. La La Land
+3. The Magnificent Seven
 
 The information should be printed out in that order.  You should only print out information on these three films.
